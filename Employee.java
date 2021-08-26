@@ -1,0 +1,4 @@
+public Employee{
+	void method(){
+	};
+}
